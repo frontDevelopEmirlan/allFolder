@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "title": "venom",
+      "descr": "s",
+      "image": "https://kino.24tv.ua/resources/photos/news/202110/1757374.jpg?v=1661259597000&w=1200&h=675&fit=cover&output=webp&q=50",
+      "video": "https://voidboost.net/embed/1227967?partner=gidonline&t=21&vstop=7&df=1&vsright=111&block=jp,mx,us,au,br,in,cn,ch,be,sg,ca,kr,hk",
+      "id": 12
+    },
+    {
+      "title": "",
+      "descr": "",
+      "image": "",
+      "video": "",
+      "id": 13
+    },
+    {
+      "title": "sdfghjk",
+      "descr": "sdfjkl",
+      "image": "sdfgh",
+      "video": "sdfg",
+      "id": 14
+    }
+  ]
+}

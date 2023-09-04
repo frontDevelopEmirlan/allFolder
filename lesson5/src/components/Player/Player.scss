@@ -1,0 +1,13 @@
+.player {
+  padding-top: 110px;
+  background-color: #141a1f;
+  &--cart {
+    &--iframe {
+      width: 50%;
+      width: 60%;
+      height: {
+        lg: 700px;
+      }
+    }
+  }
+}
